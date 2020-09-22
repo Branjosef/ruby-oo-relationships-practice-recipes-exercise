@@ -1,11 +1,6 @@
 require_relative '../config/environment.rb'
 require 'pry'
 
-
-
-
-
-
 recipe_ingredient1 = RecipeIngredient.new("recipe1","ingredient1")
 recipe_ingredient2 = RecipeIngredient.new("recipe1","ingredient2")
 recipe_ingredient3 = RecipeIngredient.new("recipe2","ingredient2")

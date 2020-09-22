@@ -24,6 +24,6 @@ def self.most_common_allergen
   allergies.max_by { |v| frequency[v] }
 end
 
-
-
 end
+
+

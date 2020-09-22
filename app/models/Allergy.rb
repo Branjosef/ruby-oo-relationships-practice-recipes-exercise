@@ -15,5 +15,4 @@ def self.all #works
 @@all
 end
 
-
 end
